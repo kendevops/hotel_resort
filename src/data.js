@@ -10,10 +10,10 @@ import img5 from "./img/room-5.jpeg";
 import img6 from "./img/room-6.jpeg";
 import img7 from "./img/room-7.jpeg";
 import img8 from "./img/room-8.jpeg";
-import img9 from "./images/room-9.jpeg";
-import img10 from "./images/room-10.jpeg";
-import img11 from "./images/room-11.jpeg";
-import img12 from "./images/room-12.jpeg";
+import img9 from "./img/room-9.jpeg";
+import img10 from "./img/room-10.jpeg";
+import img11 from "./img/room-11.jpeg";
+import img12 from "./img/room-12.jpeg";
 
 export default [
   {
